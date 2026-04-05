@@ -4,7 +4,7 @@
 # 🚀 FETCHTUBE - ULTIMATE PRO (V2.0)
 **The most lethal, pure Python media acquisition engine.**
 
-![FetchTube UI]([https://github.com/YourUsername/RepoName/raw/main/screenshot.png)
+![FetchTube UI](https://github.com/AbdullahPro784/FETCHTUBE---ULTIMATE-PRO/raw/main/screenshot.png)
 
 Stop using bloated, ad-filled web downloaders. **FetchTube Ultimate Pro** is a heavy-duty desktop engine powered by `yt-dlp` and `CustomTkinter`. It strips the fat, gives you raw access to every available resolution, and downloads straight to your hard drive with zero friction.
 
