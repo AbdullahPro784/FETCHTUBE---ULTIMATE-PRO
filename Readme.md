@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo.png" width="150" title="FetchTube Logo">
+</p>
 # 🚀 FETCHTUBE - ULTIMATE PRO (V2.0)
 **The most lethal, pure Python media acquisition engine.**
 
