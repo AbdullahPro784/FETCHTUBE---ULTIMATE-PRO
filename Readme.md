@@ -37,4 +37,4 @@ Stop using bloated, ad-filled web downloaders. **FetchTube Ultimate Pro** is a h
 ---
 
 ### 🛑 DISCLAIMER
-*FetchTube is a utility tool built for educational purposes. Do not use this engine to pirate protected content. Respect the creators mf.*
+*FetchTube is a utility tool built for educational purposes. Do not use this engine to pirate protected content. Respect the creators .*
