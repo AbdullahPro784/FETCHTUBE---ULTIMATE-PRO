@@ -18,7 +18,7 @@ Stop using bloated, ad-filled web downloaders. **FetchTube Ultimate Pro** is a h
 ---
 
 ### 🛠️ INSTALLATION & SETUP
-**For Regular Mfs (The Easy Way):**
+**For Regular Users (The Easy Way):**
 1. Go to the [Releases](../../releases) tab.
 2. Download `FetchTube_v2.0_Setup.exe`.
 3. Install and start fetching.
